@@ -1,0 +1,10 @@
+H901005001,Apollo Hospital,Sector-21 Gurugram Haryana-342552,9899993631
+H901005002,Fortis Hospital,154 9-Bannerghatta Road Bengaluru-560076,9564856266
+H901005003,Fortis,Road ABC Behind Capgemini,9010054263
+H901005004,Artemis Hospital,Sector-51 Gurugram Haryana-122001,9800100144
+H901005005,Wockhardt Hospital,1877 Near Agripada Mumbai-400011,9740000121
+H901005006,Ruby Hall Clinic,40-Sasoon Road Sangamvadi Pune-411001,9696965222
+H901005007,MaxCure Hospital,8-1-398/PM/297/1 Paramount Hills Hyderabad-500008,9112522555
+H901005008,Columbia Asia Referral Hospital,26/4 Brigade Gateway West Yeshwanthpur Bengaluru-560055,9456852635
+H901005009,Fortis Escorts Heart Institute,Okhla Road New Delhi-110025,9800000044
+H901005010,Indraprastha Apollo Hospital,Mathura Road New Delhi-110076,9859856666
